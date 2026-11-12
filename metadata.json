@@ -1,0 +1,6 @@
+{
+  "name": "QuickBite QR - Digital Menu & Kitchen Ordering System",
+  "description": "Full-stack QR-code digital menu and live kitchen ordering system (KDS) with instant table ordering and real-time kitchen display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
